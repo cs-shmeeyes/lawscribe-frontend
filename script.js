@@ -11,7 +11,7 @@ const fileSelect = document.getElementById("fileSelect");
 const loadingSpinner = document.getElementById("loadingSpinner");
 
 // === Backend URL (via Ngrok) ===
-const BASE_URL = 'https://abc123.ngrok.io'; // ⬅️ replace this every time Ngrok restarts
+const BASE_URL = '#https://c031-2405-201-401f-3826-8c7b-ee1a-9b24-d910.ngrok-free.app'; // ⬅️ replace this every time Ngrok restarts
 
 // === State ===
 let mediaRecorder;
